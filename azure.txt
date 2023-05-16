@@ -1,0 +1,41 @@
+5-sep--first session on data bricks edition
+
+6-sep--pyspark xml and json files processing databricks dbs file system
+7-sep- pyspark window functons and shared variable sparksql ddl create database and drop database
+8  spark sql ddl create table views and type of views
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+10 0ctober ------ azure fundamentals data storage like blob storage data lake data factory
+11
+12
+13
+14--subscription adf
+15--sat
+16--sun
+17--azure data factory
+18--adls--gen2
+19-- adls-gen2
+20-- adf-azure data factory
+21--on premises pipelines filters  with metadata 
+25-- dwh end to end process
+26-- end to end azds azdfs
